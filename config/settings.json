@@ -1,0 +1,12 @@
+{
+  "cursor_sensitivity": 1.0,
+  "cursor_smoothing": 0.7,
+  "pinch_threshold": 45,
+  "click_cooldown": 0.5,
+  "scroll_speed": 3,
+  "enable_eye_tracking": true,
+  "enable_hand_tracking": true,
+  "show_landmarks": true,
+  "show_fps": true,
+  "control_mode": "hand"
+}
